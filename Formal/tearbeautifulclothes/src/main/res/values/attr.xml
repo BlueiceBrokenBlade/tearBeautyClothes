@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="srcdown" format="integer"/>
+    <attr name="srcup" format="integer"/>
+
+<declare-styleable name="TearClothView">
+    <attr name="srcdown"/>
+    <attr name="srcup"/>
+</declare-styleable>
+</resources>
